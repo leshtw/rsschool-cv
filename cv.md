@@ -20,7 +20,7 @@ I don't have any public examples
 I have no experience 
 
 ### Education:
-i was studying at the BarSU and graduated in 2017
+I was studying at the BarSU and graduated in 2017
 
 ### English:
 A2.
