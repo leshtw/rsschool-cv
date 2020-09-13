@@ -8,4 +8,13 @@ Alexey Bogucharov
 
 
 ### Summary:
-My goal in this course is to gain knowledge and experience in javascript developmentю
+My goal in this course is to gain knowledge and experience in javascript development
+
+### Skills:
+I studied php (basics), (basics), html5, css3, Bootstrap 4 (basics).
+
+### Sample code:
+I don't have any public examples
+
+### Experience:
+I have no experience 
