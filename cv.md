@@ -18,3 +18,11 @@ I don't have any public examples
 
 ### Experience:
 I have no experience 
+
+### Education:
+i was studying at the BarSU and graduated in 2017
+
+### English:
+A2.
+
+
