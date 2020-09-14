@@ -4,14 +4,14 @@ Alexey Bogucharov
 
 ### Contacts:
 - [e-mail](http://cmextw2610@yandex.ru)
-- [Tegram](https://t.me/lextw)
+- [Telegram](https://t.me/lextw)
 
 
 ### Summary:
 My goal in this course is to gain knowledge and experience in javascript development
 
 ### Skills:
-I studied php (basics), (basics), html5, css3, Bootstrap 4 (basics).
+I studied php (basics), html5, css3, Bootstrap 4 (basics).
 
 ### Sample code:
 I don't have any public examples
